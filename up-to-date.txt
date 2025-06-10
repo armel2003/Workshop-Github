@@ -1,0 +1,2 @@
+up-to-date info about user;
+add posibilite to add profile photo;
